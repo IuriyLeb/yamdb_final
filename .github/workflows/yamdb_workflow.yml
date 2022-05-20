@@ -62,9 +62,6 @@ jobs:
           username: ${{ secrets.USER }}
           key: ${{ secrets.SSH_KEY }}
           script: |
-#            sudo docker pull ileeb/yamdb_final:latest
-#            sudo docker stop $(sudo docker ps -a -q)
-#            sudo docker run --rm -d -p 5000:5000 ileeb/yamdb_final:latest
             sudo docker compose stop
             sudo docker compose rm web
             touch .env
