@@ -52,10 +52,6 @@ This project was done as a part of learning in [Yandex.Practicum](https://practi
 If you have any suggestions/comments, open pull requests or contact me by email.
 
 ### Contributing
-Project is available in :
-http://51.250.102.248/api/v1
-http://51.250.102.248/admin
-http://51.250.102.248/redoc
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
